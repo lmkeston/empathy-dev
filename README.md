@@ -5,7 +5,7 @@
 - [Intro to Design Thinking](design-thinking/)
 - [Minimum Viable Product](mvp)
 - [Five Phases of Design Thinking](five-phases)
-- [Empathy](empathy/)
+- [Empathize](empathy/)
 - [Define & Ideate](define/)
 - [Prototype & Test](prototype/)
 
