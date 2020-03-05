@@ -6,5 +6,9 @@
 - [Minimum Viable Product](mvp)
 - [Five Phases of Design Thinking](five-phases)
 - [Empathy](empathy/)
+- [Define](define/)
+- [Ideate](ideate/)
+- [Prototype](prototype/)
+- [Test](test/)
 
 This repository is licensed under [CC-by-4](LICENSE) (c) 2019 GitHub, Inc.
