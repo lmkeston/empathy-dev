@@ -1,4 +1,4 @@
-<p align="center"><img width="100" src="https://lab.github.com/public/images/avatar.png"></p>
+<p align="center"><img width="100" src="https://user-images.githubusercontent.com/38021615/74766565-2f197600-523a-11ea-9639-e22513cf6e6e.png"></p>
 
 <p align="center">This page was created with help from <a href="https://lab.github.com/">GitHub Learning Lab</a></p>
 
